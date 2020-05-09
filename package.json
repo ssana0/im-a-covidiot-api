@@ -1,0 +1,15 @@
+{
+  "name": "im-a-covidiot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node ./src"
+  },
+  "author": "ssana0",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.13.0",
+    "graphql": "^15.0.0"
+  }
+}
