@@ -9,11 +9,23 @@ const todoItems = [
     },
     {
         id: 3,
-        item: 'Go to Blue Sakura for dinner, to flatten the COVID *curve* obviously' 
+        item: 'Go to Blue Sakura for dinner, to un-flatten my COVID *curve*' 
     },
     {
         id: 4,
-        item: 'Give Jame a h5 for being a top boi to work with'
+        item: 'Give James a h5 for being a top boi to work with because he likes my memes'
+    },
+    {
+        id: 5,
+        item: 'Stop making people like your stick men drawings. It is probably not happening.'
+    },
+    {
+        id: 6,
+        item: 'Also Gregs life choices again'
+    }, 
+    {
+        id: 7,
+        item: 'Kapow brownies. I miss you so much. Sorry Lucy, just made you hungry.'
     }
 ];
 
